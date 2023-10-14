@@ -16,19 +16,19 @@ This repository is made to keep templates seperate from Blueprint's release file
 <br/>
 
 ## Templates
-**[Barebones](https://github.com/teamblueprint/templates/tree/main/0/contents)**\
+**[Barebones](https://github.com/teamblueprint/templates/tree/main/0)**\
 A really basic extension template, featuring only a config file and a view.
 Use this when you are creating an extension from scratch.
 
-**[Basic Theme](https://github.com/teamblueprint/templates/tree/main/1/contents)**\
+**[Basic Theme](https://github.com/teamblueprint/templates/tree/main/1)**\
 Introduction to theming with Blueprint.
 This extension overwrites CSS classes to change the colors of the panel theme and introduces developers to panel customization.
 
-**[Dashboard Overlay](https://github.com/teamblueprint/templates/tree/main/2/contents)**\
+**[Dashboard Overlay](https://github.com/teamblueprint/templates/tree/main/2)**\
 Example of putting a website on top of the panel.
 Uses the dashboard wrapper to place a fixed positioned iFrame over the panel contents.
 
-**[Onboarding Modal](https://github.com/teamblueprint/templates/tree/main/3/contents)**\
+**[Onboarding Modal](https://github.com/teamblueprint/templates/tree/main/3)**\
 Custom-made modal that can help you introduce users to your panel and is a place for you to put links to websites related to your panel.
 
 <br/>
