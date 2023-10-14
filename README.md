@@ -1,4 +1,4 @@
-<h2><img src="https://github.com/teamblueprint/templates/assets/103201875/6795f6e6-fd3f-41c0-8fe4-8a4d1f0355f6" style="height:30px;padding-right:1px"></img></h2>
+<h2><img src="https://github.com/teamblueprint/templates/assets/103201875/04495368-94ac-4fe6-8f06-430a5731480e" style="height:30px;padding-right:1px"></img></h2>
 
 [Blueprint ➚](https://github.com/teamblueprint/main)
 
