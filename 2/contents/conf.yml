@@ -9,7 +9,7 @@ info:
   version: "␀ver␀"
   target: "␀version␀"
   author: "␀author␀"
-  icon: "␀icon␀"
+  icon: ""
   website: ""
 
 admin:
@@ -19,7 +19,7 @@ admin:
   wrapper: ""
 
 dashboard:
-  wrapper: "client.blade.php"
+  wrapper: "wrapper.blade.php"
   css: ""
 
 data:

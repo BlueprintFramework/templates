@@ -13,7 +13,7 @@ info:
   website: ""
 
 admin:
-  view: "view.blade.php"
+  view: "admin.blade.php"
   controller: ""
   css: ""
   wrapper: ""

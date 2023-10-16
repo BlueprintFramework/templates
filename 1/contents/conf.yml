@@ -9,18 +9,18 @@ info:
   version: "␀ver␀"
   target: "␀version␀"
   author: "␀author␀"
-  icon: "␀icon␀"
+  icon: ""
   website: ""
 
 admin:
-  view: "admin/view.blade.php"
+  view: "admin.blade.php"
   controller: ""
   css: ""
   wrapper: ""
 
 dashboard:
   wrapper: ""
-  css: "client/style.css"
+  css: "dashboard.css"
 
 data:
   directory: ""
