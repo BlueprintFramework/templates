@@ -39,4 +39,7 @@ Custom-made modal that can help you introduce users to your panel and is a place
 <br/>
 
 ## Related Links
-[**teamblueprint/main**](https://github.com/teamblueprint/main) is the official repository for Blueprint.
+[**teamblueprint/main**](https://github.com/teamblueprint/main) is our extension framework that aims to make Pterodactyl extensible.\
+[**teamblueprint/web**](https://github.com/teamblueprint/web) is our work-in-progress website and documentation revision.\
+[**Pterodactyl**](https://pterodactyl.io/) is a free, open-source game server management panel built with PHP, React, and Go.
+
