@@ -1,6 +1,3 @@
-# Thank you for developing with Blueprint.
-# For documentation about conf.yml, refer to ptero.shop/dev/conf.
-
 info:
   name: "␀name␀"
   identifier: "␀identifier␀"
