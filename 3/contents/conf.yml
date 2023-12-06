@@ -16,8 +16,8 @@ admin:
   wrapper: ""
 
 dashboard:
-  wrapper: "wrapper.blade.php"
   css: ""
+  wrapper: "wrapper.blade.php"
 
 data:
   directory: ""

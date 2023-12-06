@@ -16,8 +16,8 @@ admin:
   wrapper: ""
 
 dashboard:
-  wrapper: ""
   css: "dashboard.css"
+  wrapper: ""
 
 data:
   directory: ""
