@@ -16,7 +16,7 @@ admin:
   wrapper: ""
 
 dashboard:
-  css: "dashboard.css"
+  css: "client.css"
   wrapper: ""
 
 data:
