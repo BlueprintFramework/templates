@@ -1,6 +1,6 @@
 <h2><img src="https://github.com/teamblueprint/templates/assets/103201875/04495368-94ac-4fe6-8f06-430a5731480e" style="height:30px;padding-right:1px"></img></h2>
 
-[Blueprint ➚](https://github.com/teamblueprint/main)
+[**Blueprint ➚**](https://github.com/teamblueprint/main)
 
 [Information](#information)\
 [Templates](#templates)\
@@ -34,7 +34,7 @@ Custom-made modal that can help you introduce users to your panel and is a place
 <br/>
 
 ## Contributors
-[prplwtf](https://github.com/prplwtf) - creator and maintainer
+[**prplwtf**](https://github.com/prplwtf) - creator and maintainer
 
 <br/>
 
