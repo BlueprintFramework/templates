@@ -18,6 +18,7 @@ admin:
 dashboard:
   css: "client.css"
   wrapper: ""
+  components: ""
 
 data:
   directory: ""

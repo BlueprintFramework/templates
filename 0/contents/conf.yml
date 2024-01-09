@@ -18,6 +18,7 @@ admin:
 dashboard:
   css: ""
   wrapper: ""
+  components: ""
 
 data:
   directory: ""
