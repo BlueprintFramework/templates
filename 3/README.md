@@ -1,4 +1,4 @@
-## Onboarding Modal
+## Onboarding modal
 
 [Information](#information)\
 [Contributors](#contributors)

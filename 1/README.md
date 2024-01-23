@@ -1,4 +1,4 @@
-## Basic Theme
+## Basic theme
 
 [Information](#information)\
 [Contributors](#contributors)

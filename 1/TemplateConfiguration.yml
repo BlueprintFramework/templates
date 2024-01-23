@@ -1,7 +1,4 @@
 template:
-  name: "Basic Theme"
+  name: "Basic theme"
   id: 1
   author: "prplwtf, sp11rum"
-
-  files:
-    icon: ""

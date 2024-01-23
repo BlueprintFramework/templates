@@ -1,7 +1,4 @@
 template:
-  name: "Onboarding Modal"
+  name: "Onboarding modal"
   id: 3
   author: "prplwtf"
-
-  files:
-    icon: ""

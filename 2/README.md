@@ -1,4 +1,4 @@
-## Dashboard Overlay
+## Dashboard overlay
 
 [Information](#information)\
 [Contributors](#contributors)

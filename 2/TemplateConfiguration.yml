@@ -1,7 +1,4 @@
 template:
-  name: "Dashboard Overlay"
+  name: "Dashboard overlay"
   id: 2
   author: "prplwtf"
-
-  files:
-    icon: ""
