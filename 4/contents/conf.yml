@@ -11,7 +11,7 @@ info:
 
 admin:
   view: "admin.blade.php"
-  controller: ""
+  controller: "controller.php"
   css: ""
   wrapper: ""
 
