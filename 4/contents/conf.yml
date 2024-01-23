@@ -25,4 +25,4 @@ data:
   public: ""
 
 database:
-  migrations: "migrations"
+  migrations: ""
