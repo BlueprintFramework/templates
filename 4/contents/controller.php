@@ -67,6 +67,10 @@ class __identifier__SettingsFormRequest extends AdminFormRequest
 {
   public function rules(): array
   {
+    /* 
+      Learn more about Laravel input validation:
+      https://laravel.com/docs/10.x/validation#available-validation-rules
+    */
     return [
       'config:1' => 'string',
       'config:2' => 'string',
