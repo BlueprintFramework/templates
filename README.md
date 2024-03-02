@@ -34,6 +34,9 @@ Custom-made modal that can help you introduce users to your panel and is a place
 **[Admin configuration](https://github.com/teamblueprint/templates/tree/main/4)**\
 This template aims to introduce extension developers to custom controllers and more advanced admin pages with save-able configuration options.
 
+**[Developer preview](https://github.com/teamblueprint/templates/tree/main/5)**\
+Template for extension developers to start experimenting with the upcoming features of Blueprint.
+
 <br/>
 
 ## Contributors
