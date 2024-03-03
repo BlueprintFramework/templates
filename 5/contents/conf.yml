@@ -27,7 +27,10 @@ data:
 requests:
   views: ""
   controllers: ""
-  router: ""
+  routers:
+    application: ""
+    client: ""
+    web: ""
 
 database:
   migrations: ""
