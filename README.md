@@ -45,7 +45,7 @@ Template for extension developers to start experimenting with the upcoming featu
 <br/>
 
 ## Related Links
-[**`BlueprintFramework/main`**](https://github.com/BlueprintFramework/main) is our extension framework that aims to make Pterodactyl extensible.\
-[**`BlueprintFramework/web`**](https://github.com/BlueprintFramework/web) is our open-source documentation and landing website.\
-[**`Pterodactyl.io`**](https://pterodactyl.io/) is a free, open-source game server management panel built with PHP, React, and Go.
+[**BlueprintFramework/main**](https://github.com/BlueprintFramework/main) is our extension framework that aims to make Pterodactyl extensible.\
+[**BlueprintFramework/web**](https://github.com/BlueprintFramework/web) is our open-source documentation and landing website.\
+[**Pterodactyl**](https://pterodactyl.io/) is a free, open-source game server management panel built with PHP, React, and Go.
 
