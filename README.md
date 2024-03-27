@@ -1,21 +1,23 @@
-<h2><img src="https://github.com/BlueprintFramework/templates/assets/103201875/04495368-94ac-4fe6-8f06-430a5731480e" style="height:30px;padding-right:1px"></img></h2>
+<!-- Header -->
+<br/><h3 align="center"><a href="https://github.com/BlueprintFramework"><code>BlueprintFramework</code></a>/<code>templates</code></h3>
+<p align="center">
+  <a href="https://github.com/BlueprintFramework/main">Blueprint</a> <b>·</b>
+  <a href="https://blueprint.zip">Website</a> <b>·</b>
+  <a href="https://discord.gg/CUwHwv6xRe">Community</a>
+</p>
 
-[**Blueprint ➚**](https://github.com/BlueprintFramework/main)
 
-[Information](#information)\
-[Templates](#templates)\
-[Contributors](#contributors)\
-[Related Links](#related-links)
 
-<br/>
+<!-- Information -->
+<br/><h2 align="center">ℹ️ Information</h2>
 
-## Information
-Extension templates are made to introduce (potential) developers to Blueprint extensions and allows them to start from an example.
-This repository is made to keep templates seperate from Blueprint's release files and to easely allow for community-made templates through pull requests and contributions.
+Extension templates are made to introduce (potential) developers to Blueprint extensions and allows them to start from an example. This repository is made to keep templates seperate from Blueprint's release files and to easely allow for community-made templates through pull requests and contributions.
 
-<br/>
 
-## Templates
+
+<!-- Templates -->
+<br/><h2 align="center">📘 Templates</h2>
+
 **[Barebones](https://github.com/BlueprintFramework/templates/tree/main/0)**\
 A really basic extension template, featuring only a config file and a view.
 Use this when you are creating an extension from scratch.
@@ -37,15 +39,13 @@ This template aims to introduce extension developers to custom controllers and m
 **[Developer preview](https://github.com/BlueprintFramework/templates/tree/main/5)**\
 Template for extension developers to start experimenting with the upcoming features of Blueprint.
 
-<br/>
 
-## Contributors
-[**prplwtf**](https://github.com/prplwtf) - creator and maintainer
 
-<br/>
+<!-- Contributors -->
+<br/><h2 align="center">👥 Contributors</h2>
 
-## Related Links
-[**BlueprintFramework/main**](https://github.com/BlueprintFramework/main) is our extension framework that aims to make Pterodactyl extensible.\
-[**BlueprintFramework/web**](https://github.com/BlueprintFramework/web) is our open-source documentation and landing website.\
-[**Pterodactyl**](https://pterodactyl.io/) is a free, open-source game server management panel built with PHP, React, and Go.
+Contributors help shape the future of the Blueprint modding framework. To start contributing you have to [fork this repository](https://github.com/blueprintFramework/templates/fork) and [open a pull request](https://github.com/BlueprintFramework/templates/compare).
 
+<a href="https://github.com/BlueprintFramework/templates/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=BlueprintFramework/templates" />
+</a>
