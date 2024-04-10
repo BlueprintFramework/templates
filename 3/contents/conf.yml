@@ -1,11 +1,11 @@
 info:
-  name: "␀name␀"
-  identifier: "␀identifier␀"
-  description: "␀description␀"
+  name: "[name]"
+  identifier: "[identifier]"
+  description: "[description]"
   flags: ""
-  version: "␀ver␀"
-  target: "␀version␀"
-  author: "␀author␀"
+  version: "[ver]"
+  target: "[version]"
+  author: "[author]"
   icon: "icon.jpg"
   website: ""
 
@@ -23,6 +23,14 @@ dashboard:
 data:
   directory: ""
   public: ""
+
+requests:
+  views: ""
+  controllers: ""
+  routers:
+    application: ""
+    client: ""
+    web: ""
 
 database:
   migrations: ""
