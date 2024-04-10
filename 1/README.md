@@ -1,16 +1,7 @@
-## Basic theme
+<!-- Header -->
+<br/><h3 align="center"><a href="https://github.com/BlueprintFramework/templates"><code>templates</code></a>/<code>Basic theme</code></h3>
 
-[Information](#information)\
-[Contributors](#contributors)
-
+<!-- Information -->
+<br/><h2 align="center">ℹ️ Information</h2>
+**`Basic theme`** introduces developers to theming with Blueprint. It works by overwriting some parts of the CSS stylesheets through various selectors.
 <br/>
-
-## Information
-Introduction to theming with Blueprint.
-This extension overwrites CSS classes to change the colors of the panel theme and introduces developers to panel customization.
-
-<br/>
-
-## Contributors
-[prplwtf](https://github.com/prplwtf) - author\
-[sp11rum](https://github.com/sp11rum) - recolor source code

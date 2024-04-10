@@ -1,15 +1,8 @@
-## Dashboard overlay
+<!-- Header -->
+<br/><h3 align="center"><a href="https://github.com/BlueprintFramework/templates"><code>templates</code></a>/<code>Dashboard overlay</code></h3>
 
-[Information](#information)\
-[Contributors](#contributors)
-
-<br/>
-
-## Information
-Example of putting a website on top of the panel.
+<!-- Information -->
+<br/><h2 align="center">ℹ️ Information</h2>
+`Dashboard overlay` is an example of putting a website on top of the panel.
 Uses the dashboard wrapper to place a fixed positioned iFrame over the panel contents.
-
 <br/>
-
-## Contributors
-[prplwtf](https://github.com/prplwtf) - author
