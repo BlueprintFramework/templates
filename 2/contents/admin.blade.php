@@ -3,13 +3,13 @@
     // Show save button upon form input changes.
     document.addEventListener("DOMContentLoaded", function () {showSaveButton()});
     function showSaveButton() {
-      const __identifier___configForm = document.getElementById("config-form");
-      const __identifier___saveOverlay = document.getElementById("save-overlay");
+      const {identifier}_configForm = document.getElementById("config-form");
+      const {identifier}_saveOverlay = document.getElementById("save-overlay");
 
-      __identifier___configForm.addEventListener("change", function () {
-        __identifier___saveOverlay.style.display = "inline";
+      {identifier}_configForm.addEventListener("change", function () {
+        {identifier}_saveOverlay.style.display = "inline";
         setTimeout(() => {
-          __identifier___saveOverlay.style.bottom = "10px";
+          {identifier}_saveOverlay.style.bottom = "10px";
         }, 100)
       });
     }

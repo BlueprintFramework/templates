@@ -1,6 +1,6 @@
 <?php
 
-namespace Pterodactyl\Http\Controllers\Admin\Extensions\__identifier__;
+namespace Pterodactyl\Http\Controllers\Admin\Extensions\{identifier};
 
 use Illuminate\View\View;
 use Illuminate\View\Factory as ViewFactory;
@@ -10,9 +10,10 @@ use Pterodactyl\Contracts\Repository\SettingsRepositoryInterface;
 use Pterodactyl\Http\Requests\Admin\AdminFormRequest;
 use Illuminate\Http\RedirectResponse;
 
+// https://blueprint.zip/docs/?page=documentation/$blueprint
 use Pterodactyl\BlueprintFramework\Libraries\ExtensionLibrary\Admin\BlueprintAdminLibrary as BlueprintExtensionLibrary;
 
-class __identifier__ExtensionController extends Controller
+class {identifier}ExtensionController extends Controller
 {
   public function __construct(
     private ViewFactory $view,
@@ -25,9 +26,9 @@ class __identifier__ExtensionController extends Controller
   {
 
     // GET DATABASE VALUES
-    $config_1 = $this->blueprint->dbGet('^#identifier#^', 'config:1');
-    $config_2 = $this->blueprint->dbGet('^#identifier#^', 'config:2');
-    $config_3 = $this->blueprint->dbGet('^#identifier#^', 'config:3');
+    $config_1 = $this->blueprint->dbGet('{identifier}', 'config:1');
+    $config_2 = $this->blueprint->dbGet('{identifier}', 'config:2');
+    $config_3 = $this->blueprint->dbGet('{identifier}', 'config:3');
 
     // SET DEFAULT DATABASE VALUES
     $defaultConfig1 = "hello, world";
@@ -35,17 +36,17 @@ class __identifier__ExtensionController extends Controller
     $defaultConfig3 = "#101010";
     
     // APPLY DEFAULT DATABASE VALUES
-    if($config_1 == "") { $this->blueprint->dbSet('^#identifier#^', 'config:1', "$defaultConfig1"); $config_1 = $defaultConfig1; };
-    if($config_2 == "") { $this->blueprint->dbSet('^#identifier#^', 'config:2', "$defaultConfig2"); $config_2 = $defaultConfig2; };
-    if($config_3 == "") { $this->blueprint->dbSet('^#identifier#^', 'config:3', "$defaultConfig3"); $config_3 = $defaultConfig3; };
+    if($config_1 == "") { $this->blueprint->dbSet('{identifier}', 'config:1', "$defaultConfig1"); $config_1 = $defaultConfig1; };
+    if($config_2 == "") { $this->blueprint->dbSet('{identifier}', 'config:2', "$defaultConfig2"); $config_2 = $defaultConfig2; };
+    if($config_3 == "") { $this->blueprint->dbSet('{identifier}', 'config:3', "$defaultConfig3"); $config_3 = $defaultConfig3; };
 
     return $this->view->make(
-      'admin.extensions.^#identifier#^.index', [
+      'admin.extensions.{identifier}.index', [
         'config_1' => $config_1,
         'config_2' => $config_2,
         'config_3' => $config_3,
 
-        'root' => "/admin/extensions/^#identifier#^",
+        'root' => "/admin/extensions/{identifier}",
         'blueprint' => $this->blueprint,
       ]
     );
@@ -54,16 +55,16 @@ class __identifier__ExtensionController extends Controller
    * @throws \Pterodactyl\Exceptions\Model\DataValidationException
    * @throws \Pterodactyl\Exceptions\Repository\RecordNotFoundException
    */
-  public function update(__identifier__SettingsFormRequest $request): RedirectResponse
+  public function update({identifier}SettingsFormRequest $request): RedirectResponse
   {
     foreach ($request->normalize() as $key => $value) {
-      $this->settings->set('^#identifier#^::' . $key, $value);
+      $this->settings->set('{identifier}::' . $key, $value);
     }
 
-    return redirect()->route('admin.extensions.^#identifier#^.index');
+    return redirect()->route('admin.extensions.{identifier}.index');
   }
 }
-class __identifier__SettingsFormRequest extends AdminFormRequest
+class {identifier}SettingsFormRequest extends AdminFormRequest
 {
   public function rules(): array
   {
