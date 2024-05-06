@@ -10,7 +10,7 @@ info:
   website: ""
 
 admin:
-  view: "admin.blade.php"
+  view: "view.blade.php"
   controller: ""
   css: ""
   wrapper: ""

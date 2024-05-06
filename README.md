@@ -26,15 +26,16 @@ Developer extension templates can be used through the `blueprint -init` command.
 <br/><h2 align="center">📘 Templates</h2>
 
 **[Barebones](https://github.com/BlueprintFramework/templates/tree/main/0)**\
-A really basic extension template, featuring only a config file and a view.
-Use this when you are creating an extension from scratch.
+Start from scratch. Provides the minimum amount of files required for creating new extensions.
 
-**[Basic theme](https://github.com/BlueprintFramework/templates/tree/main/1)**\
-Introduction to theming with Blueprint.
-This extension overwrites CSS classes to change the colors of the panel theme and introduces developers to panel customization.
+**[Theming fundamentals](https://github.com/BlueprintFramework/templates/tree/main/1)**\
+Template with a healthy amount of css classes that allow you to work with a custom palette more easily.
 
 **[Admin configuration](https://github.com/BlueprintFramework/templates/tree/main/2)**\
-This template aims to introduce extension developers to custom controllers and more advanced admin pages with save-able configuration options.
+Preset with configuration options. Perfect for learning how to work with the database.
+
+**[Working with components](https://github.com/BlueprintFramework/templates/tree/main/3)**\
+Example that aims to help you to get a basic understanding of Blueprint's powerful components api.
 
 
 

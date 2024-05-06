@@ -10,8 +10,8 @@ info:
   website: ""
 
 admin:
-  view: "admin.blade.php"
-  controller: "controller.php"
+  view: "admin/view.blade.php"
+  controller: "admin/controller.php"
   css: ""
   wrapper: ""
 

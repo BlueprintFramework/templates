@@ -1,0 +1,25 @@
+# This extension template does not contain all component
+# configuration options. For a full list of configuration
+# options, refer to the documentation linked below.
+#
+# https://blueprint.zip/docs/?page=documentation/componentsyml
+
+Navigation:
+  NavigationBar: 
+    AdditionalItems: "elements/PlaceholderComponent"
+  Routes:
+    - { 
+        Name: "Example",
+        Path: "/example",
+        Type: "server",
+        Component: "sections/ExampleSection",
+        AdminOnly: "false"
+      }
+
+Dashboard:
+  ServerRow:
+    ResourceLimits: "TestElement"
+
+Authentication:
+  Container:
+    AfterContent: "TestElement"
