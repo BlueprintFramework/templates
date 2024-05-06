@@ -15,6 +15,13 @@ Extension templates are made to introduce (potential) developers to Blueprint ex
 
 
 
+<!-- Usage -->
+<br/><h2 align="center">⌨️ Usage</h2>
+
+Developer extension templates can be used through the `blueprint -init` command. To run this command, you might need to enable **Developer mode** in your Blueprint settings.
+
+
+
 <!-- Templates -->
 <br/><h2 align="center">📘 Templates</h2>
 
@@ -26,18 +33,8 @@ Use this when you are creating an extension from scratch.
 Introduction to theming with Blueprint.
 This extension overwrites CSS classes to change the colors of the panel theme and introduces developers to panel customization.
 
-**[Dashboard overlay](https://github.com/BlueprintFramework/templates/tree/main/2)**\
-Example of putting a website on top of the panel.
-Uses the dashboard wrapper to place a fixed positioned iFrame over the panel contents.
-
-**[Onboarding modal](https://github.com/BlueprintFramework/templates/tree/main/3)**\
-Custom-made modal that can help you introduce users to your panel and is a place for you to put links to websites related to your panel.
-
-**[Admin configuration](https://github.com/BlueprintFramework/templates/tree/main/4)**\
+**[Admin configuration](https://github.com/BlueprintFramework/templates/tree/main/2)**\
 This template aims to introduce extension developers to custom controllers and more advanced admin pages with save-able configuration options.
-
-**[Developer preview](https://github.com/BlueprintFramework/templates/tree/main/5)**\
-Template for extension developers to start experimenting with the upcoming features of Blueprint.
 
 
 

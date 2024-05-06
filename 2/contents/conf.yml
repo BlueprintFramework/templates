@@ -11,18 +11,18 @@ info:
 
 admin:
   view: "admin.blade.php"
-  controller: ""
+  controller: "controller.php"
   css: ""
   wrapper: ""
 
 dashboard:
   css: ""
-  wrapper: "wrapper.blade.php"
+  wrapper: ""
   components: ""
 
 data:
   directory: ""
-  public: "public"
+  public: ""
 
 requests:
   views: ""
