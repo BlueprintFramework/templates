@@ -1,6 +1,6 @@
-# This extension template does not contain all component
-# configuration options. For a full list of configuration
-# options, refer to the documentation linked below.
+# Template configuration files generally contain the minimum amount of
+# options required for functionality. Learn more about options that are
+# not listed here on the documentation page linked below.
 #
 # https://blueprint.zip/docs/?page=documentation/componentsyml
 
@@ -8,13 +8,7 @@ Navigation:
   NavigationBar: 
     AdditionalItems: "elements/PlaceholderComponent"
   Routes:
-    - { 
-        Name: "Example",
-        Path: "/example",
-        Type: "server",
-        Component: "sections/ExampleSection",
-        AdminOnly: "false"
-      }
+    - { Name: "Example", Path: "/example", Type: "server", Component: "sections/ExampleSection", AdminOnly: "false" }
 
 Dashboard:
   ServerRow:
