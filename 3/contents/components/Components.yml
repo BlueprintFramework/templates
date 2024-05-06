@@ -18,8 +18,8 @@ Navigation:
 
 Dashboard:
   ServerRow:
-    ResourceLimits: "TestElement"
+    ResourceLimits: "elements/TestElement"
 
 Authentication:
   Container:
-    AfterContent: "TestElement"
+    AfterContent: "elements/TestElement"
