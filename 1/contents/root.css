@@ -67,7 +67,7 @@
 
 
 
-/* Overwrite color classes */
+/* Overwrite color classes, add new elements where needed */
 .border-red-800 { border-color: var(--red-800); }
 .border-primary-800 { border-color: var(--primary-800); }
 .border-green-800 { border-color: var(--green-800); }
