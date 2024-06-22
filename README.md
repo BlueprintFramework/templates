@@ -37,6 +37,8 @@ Preset with configuration options. Perfect for learning how to work with the dat
 **[Working with components](https://github.com/BlueprintFramework/templates/tree/main/3)**\
 Example that aims to help you to get a basic understanding of Blueprint's powerful components api.
 
+**[Console and schedules](https://github.com/BlueprintFramework/templates/tree/main/4)**\
+Basic template that showcases the Blueprint console API.
 
 
 <!-- Contributors -->

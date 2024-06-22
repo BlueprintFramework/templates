@@ -10,8 +10,8 @@ info:
   website: ""
 
 admin:
-  view: "admin/view.blade.php"
-  controller: "admin/controller.php"
+  view: "view.blade.php"
+  controller: ""
   css: ""
   wrapper: ""
 
@@ -23,7 +23,7 @@ dashboard:
 data:
   directory: ""
   public: ""
-  console: ""
+  console: "console"
 
 requests:
   views: ""
