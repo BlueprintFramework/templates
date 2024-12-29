@@ -27,7 +27,7 @@ data:
 
 requests:
   views: ""
-  controllers: ""
+  app: ""
   routers:
     application: ""
     client: ""
